@@ -1,10 +1,20 @@
 # Kubernetes
 
-Essa wiki tem o proposito de demonstrar o progresso da equipe durante o desenvolvimento da matéria de Gerência de Configuração e Evolução de Software, dentro do projeto Open Source Kubernetes.
+Wiki destinada aos relatos de contribuições e organização de apresentações do projeto Kubernetes no decorrer da disciplina de Gestão de Configuração e Evolução de Software, semestre 2/2021.
 
-**Disciplina:** Gerência de Configuração e Evolução de Software
+## Para rodar localmente
+### Dependências: 
+* [npm](https://www.npmjs.com/) 
 
-**Semestre:** 2021/02
+### Comandos: 
+* Para instalar dependências
+``sudo npm i docsify-cli -g``
+
+* Para inicializar
+``docsify init ./docs``
+
+* Para rodar
+``docsify serve ./docs``
 
 <!-- 
 ## Equipe
