@@ -12,8 +12,8 @@ Também nesse momento foi levantada a necessidade de criar uma Wiki, onde seria 
 
 |ID|Descrição|
 |:--:|:--:|
-|R01|A maior parte da equipe não possuem experiência com a linguagem Go|
-|R02|A maior parte da equipe não possuem experiência com Kubernetes|
+|R01|A maior parte da equipe não possui experiência com a linguagem Go|
+|R02|A maior parte da equipe não possui experiência com Kubernetes|
 
 ## Tarefas
 
@@ -22,8 +22,12 @@ Também nesse momento foi levantada a necessidade de criar uma Wiki, onde seria 
 |[#1](https://github.com/GCES-Kubernetes-2021-2/docs/issues/1)|Construir e ajustar a wiki/projeto|Matheus Afonso, Lucas Boaventura, Brenda Santos|
 |[#2](https://github.com/GCES-Kubernetes-2021-2/docs/issues/2)|Tradução da página do sistema de métricas|Thiago Guilherme|
 |[#3](https://github.com/GCES-Kubernetes-2021-2/docs/issues/3)|Adição do linter Thelper|Matheus Afonso|
+|[#6](https://github.com/GCES-Kubernetes-2021-2/docs/issues/6)|Adição do linter Stylecheck|Mateus Gomes|
+|[#9](https://github.com/GCES-Kubernetes-2021-2/docs/issues/9)|Adição do linter Gocritic|Vinícius Saturnino|
+|[#10](https://github.com/GCES-Kubernetes-2021-2/docs/issues/10)|Mudança no controller AMMP|Thiago Mesquita|
 
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |10/02/22|0.1|Criação da página com o resumo do planejamento|Matheus Afonso|
+|10/02/22|0.2|Adição de tarefas|Mateus Gomes, Thiago Mesquita e Vinícius Saturnino|
