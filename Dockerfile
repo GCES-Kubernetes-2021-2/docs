@@ -1,12 +1,13 @@
 FROM node:latest
-LABEL description="Dockerfile para buildar sites estáticos geardos com Docsify."
+LABEL description="Dockerfile to build docsify documentation."
 
 RUN npm install docsify-cli@latest -g
 
-COPY ./ ./docs
-WORKDIR ./docs
-RUN docsify init ./build
+WORKDIR /code
 
-EXPOSE 3000/tcp
+COPY . .
 
-RUN docsify serve ./build
+EXPOSE 3000
+
+ENTRYPOINT ["docsify"]
+CMD ["serve", "."]
