@@ -9,8 +9,10 @@
     - [Issue 2058](/sprints/sprint_1/resultados/issue2058.md)
     - [Issue 13939](/sprints/sprint_1/resultados/issue13939.md)
 - Sprint 2
+  - [Planejamento](/sprints/sprint_2/planejamento.md)
   - Resultados
     - [Issue 2058](/sprints/sprint_2/resultados/issue2058.md)
+    - [Issue 3225](/sprints/sprint_2/resultados/issue3225.md)
     - [Issue 13939](/sprints/sprint_2/resultados/issue13939.md)
 
 
