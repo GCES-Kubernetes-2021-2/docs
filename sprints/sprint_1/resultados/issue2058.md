@@ -4,7 +4,7 @@ A issue escolhida para execução foi uma issue de um bug onde o azure managed m
 
 |Página|Status|Responsável|
 |:--:|:--:|:--:|
-|Cluster Api Provider Azure|[PR em revisão](https://github.com/kubernetes-sigs/cluster-api-provider-azure/pull/2074)|Thiago Mesquita|
+|Cluster Api Provider Azure|[PR aprovado](https://github.com/kubernetes-sigs/cluster-api-provider-azure/pull/2074)|Thiago Mesquita|
 
 ## Discussão da Issue
 
@@ -24,8 +24,17 @@ Após a contribuição, foi aberto um Pull Request
 
 ![PR Opened](../../../assets/sprint1/issue2058/print6.png)
 
+### Pull Request Aprovado
+
+Após a revisão e comentários dos mantenedores o Pull Request foi aprovado e foi realizado o merge.
+
+![PR Accepted](../../../assets/sprint1/issue2058/aprovecomments.png)
+
+![PR Accepted](../../../assets/sprint1/issue2058/praproved.png)
+
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |10/02/22|0.1|Criação do documento|Thiago Mesquita|
 |10/02/22|0.2|Complementação do documento|Thiago Mesquita|
+|24/02/22|0.3|Complementação do documento acerca do PR aprovado|Thiago Mesquita|
