@@ -10,9 +10,9 @@ Após a discussão dentro da issue e após o commit, foi criado um Pull Request 
 
 Após a contribuição, foi aberto um Pull Request
 
-![PR Opened](../../../assets/sprint1/issue2058/print5.png)
+![PR Opened](../../../assets/sprint2/issue2058/print5.png)
 
-![PR Opened](../../../assets/sprint1/issue2058/print6.png)
+![PR Opened](../../../assets/sprint2/issue2058/print6.png)
 
 ### Pull Request Aprovado
 
