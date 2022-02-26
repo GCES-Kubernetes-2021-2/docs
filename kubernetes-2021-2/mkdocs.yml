@@ -1,0 +1,9 @@
+site_name: Kubernetes
+pages:
+  - Home: index.md
+  - Sprints: 
+    - Sprint 1: sprints/sprint_1/planejamento.md
+    - Sprint 2: sprints/sprint_2/planejamento.md
+theme:
+  name: material
+  logo: assets/kubernetes-icon.png
