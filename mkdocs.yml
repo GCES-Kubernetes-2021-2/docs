@@ -2,8 +2,20 @@ site_name: Kubernetes
 pages:
   - Home: index.md
   - Sprints: 
-    - Sprint 1: sprints/sprint_1/planejamento.md
-    - Sprint 2: sprints/sprint_2/planejamento.md
+    - Sprint 1: 
+      - Planejamento: sprints/sprint_1/planejamento.md
+      - Issue 2029: sprints/sprint_1/resultados/issue2029.md
+      - Issue 2030: sprints/sprint_1/resultados/issue2030.md
+      - Issue 2031: sprints/sprint_1/resultados/issue2031.md
+      - Issue 2058: sprints/sprint_1/resultados/issue2058.md
+      - Issue 13939: sprints/sprint_1/resultados/issue13939.md
+    - Sprint 2: 
+      - Planejamento: sprints/sprint_2/planejamento.md
+      - Issue 1840: sprints/sprint_2/resultados/issue1840.md
+      - Issue 2030: sprints/sprint_2/resultados/issue2030.md
+      - Issue 2058: sprints/sprint_2/resultados/issue2058.md
+      - Issue 3225: sprints/sprint_2/resultados/issue3225.md
+      - Issue 13939: sprints/sprint_2/resultados/issue13939.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png
