@@ -11,11 +11,11 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 |:--:|:--:|:--:|:--:|:--:|
 | ![Brenda][brenda-img] | 18/0041444 | Brenda Santos | [@brendavsantos][brenda-github] | brendasantosv.bs@gmail.com |
 | ![Lucas][lucas-img] | 18/00xxxxx | Lucas Boaventura | [@lboaventura25][lucas-github] | xxxxx@hotmail.com.br |
-| ![Mateus Gomes][mateus-img] | 18/00xxxxx | Mateus Gomes | [@matgomes21][mateus-github] | xxxxx@hotmail.com.br |
+| ![Mateus Gomes][mateus-img] | 18/0106821 | Mateus Gomes | [@matgomes21][mateus-github] | mateusgomes.nascimento21@gmail.com |
 | ![Matheus Afonso][matheus-img] | 18/00xxxxx | Matheus Afonso | [@Matheusafonsouza][matheus-github] | xxxxx@hotmail.com.br |
 | ![Tamara][tamara-img] | 18/00xxxxx | Tâmara Barbosa | [@tamarabarbosa][tamara-github] | xxxxx@hotmail.com.br |
 | ![Thiago][thiago1-img] | 18/00xxxxx | Thiago Guilherme | [@ThiagoGMF][thiago1-github] | xxxxx@hotmail.com.br |
-| ![Vinicius][vinicius-img] | 18/00xxxxx | Vinicius Saturnino | [@viniciussaturnino][vinicius-github] | xxxxx@hotmail.com.br |
+| ![Vinicius][vinicius-img] | 18/00xxxxx | Vinícius Saturnino | [@viniciussaturnino][vinicius-github] | xxxxx@hotmail.com.br |
 | ![Thiago][thiago2-img] | 18/00xxxxx | Thiago Mesquita | [@thiagompc][thiago2-github] | xxxxx@hotmail.com.br |
 
 [brenda-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
@@ -24,7 +24,7 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 [lucas-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
 [lucas-github]:https://github.com/lboaventura25
 
-[mateus-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
+[mateus-img]:https://avatars.githubusercontent.com/u/50213406?v=4
 [mateus-github]:https://github.com/matgomes21
 
 [matheus-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
