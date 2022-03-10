@@ -19,6 +19,7 @@ pages:
     - Sprint 3:
       - Planejamento: sprints/sprint_3/planejamento.md
       - Issue 13939 - Endpoint Slices Page: sprints/sprint_3/resultados/issue13939_endpoint_slices.md
+      - Issue 2104: sprints/sprint_3/resultados/issue2104.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png
