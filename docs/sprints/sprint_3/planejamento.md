@@ -18,7 +18,9 @@ Assim como nas outras sprints, o grupo decidiu por não realizar uma reunião de
 
 |Issue|Descrição|Responsável|
 |:--:|:--:|:--:|
-|[#1](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/25)|Translating Endpoint Slices page|Mateus Gomes e Matheus Afonso|
+|[#6](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/6)|Adição do linter Stylecheck|Mateus Gomes|
+|[#25](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/25)|Translating Endpoint Slices page|Mateus Gomes e Matheus Afonso|
+
 
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|

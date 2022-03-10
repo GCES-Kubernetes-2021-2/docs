@@ -18,6 +18,7 @@ pages:
       - Issue 13939: sprints/sprint_2/resultados/issue13939.md
     - Sprint 3:
       - Planejamento: sprints/sprint_3/planejamento.md
+      - Issue 2030: sprints/sprint_3/resultados/issue2030.md
       - Issue 13939 - Endpoint Slices Page: sprints/sprint_3/resultados/issue13939_endpoint_slices.md
 theme:
   name: material
