@@ -1,7 +1,7 @@
 # Planejamento 
 |Sprint|Inicio|Fim|
 |:--:|:--:|:--:|
-|02|01/03/2022|10/03/2022|
+|03|01/03/2022|10/03/2022|
 
 ## Discussão
 
@@ -26,3 +26,4 @@ Assim como nas outras sprints, o grupo decidiu por não realizar uma reunião de
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |10/03/22|0.1|Criação do documento |Mateus Gomes|
+|10/03/22|0.2|Correção no número da sprint |Mateus Gomes|
