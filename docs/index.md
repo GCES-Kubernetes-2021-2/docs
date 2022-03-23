@@ -13,7 +13,7 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 | ![Lucas][lucas-img] | 18/00xxxxx | Lucas Boaventura | [@lboaventura25][lucas-github] | xxxxx@hotmail.com.br |
 | ![Mateus Gomes][mateus-img] | 18/0106821 | Mateus Gomes | [@matgomes21][mateus-github] | mateusgomes.nascimento21@gmail.com |
 | ![Matheus Afonso][matheus-img] | 18/00xxxxx | Matheus Afonso | [@Matheusafonsouza][matheus-github] | xxxxx@hotmail.com.br |
-| ![Tamara][tamara-img] | 18/00xxxxx | Tâmara Barbosa | [@tamarabarbosa][tamara-github] | xxxxx@hotmail.com.br |
+| ![Tamara][tamara-img] | 12/0022613 | Tâmara Barbosa | [@tamarabarbosa][tamara-github] | tamara-bt@hotmail.com.br |
 | ![Thiago][thiago1-img] | 18/0028308 | Thiago Guilherme | [@ThiagoGMF][thiago1-github] | thiago.guilherme20@hotmail.com.br |
 | ![Vinicius][vinicius-img] | 18/00xxxxx | Vinícius Saturnino | [@viniciussaturnino][vinicius-github] | xxxxx@hotmail.com.br |
 | ![Thiago][thiago2-img] | 18/00xxxxx | Thiago Mesquita | [@thiagompc][thiago2-github] | xxxxx@hotmail.com.br |
@@ -30,7 +30,7 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 [matheus-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
 [matheus-github]:https://github.com/Matheusafonsouza
 
-[tamara-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
+[tamara-img]:https://avatars.githubusercontent.com/u/5291094?s=400&u=37126486d891694b646e7664895f7fe38e2d982a&v=4
 [tamara-github]:https://github.com/tamarabarbosa
 
 [thiago1-img]:https://avatars.githubusercontent.com/u/50593193?v=4
