@@ -1,7 +1,7 @@
 # Planejamento 
 |Sprint|Inicio|Fim|
 |:--:|:--:|:--:|
-|02|01/03/2022|10/03/2022|
+|03|01/03/2022|10/03/2022|
 
 ## Discussão
 
@@ -18,9 +18,14 @@ Assim como nas outras sprints, o grupo decidiu por não realizar uma reunião de
 
 |Issue|Descrição|Responsável|
 |:--:|:--:|:--:|
-|[#1](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/25)|Translating Endpoint Slices page|Mateus Gomes e Matheus Afonso|
+|[#6](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/6)|Adição do linter Stylecheck|Mateus Gomes|
+|[#25](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/25)|Translating Endpoint Slices page|Mateus Gomes e Matheus Afonso|
+|[#24](https://github.com/GCES-Kubernetes-2021-2/kubernetes-docs/issues/24)|Translating Resource Quotas page|Brenda Santos|
+
 
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |10/03/22|0.1|Criação do documento |Mateus Gomes|
+|10/03/22|0.2|Correção no número da sprint |Mateus Gomes|
+|21/03/22|0.3|Adicionando issue |Brenda Santos|

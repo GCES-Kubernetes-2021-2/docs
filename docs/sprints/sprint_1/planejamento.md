@@ -20,7 +20,7 @@ Também nesse momento foi levantada a necessidade de criar uma Wiki, onde seria 
 |Issue|Descrição|Responsável|
 |:--:|:--:|:--:|
 |[#1](https://github.com/GCES-Kubernetes-2021-2/docs/issues/1)|Construir e ajustar a wiki/projeto|Matheus Afonso, Lucas Boaventura, Brenda Santos|
-|[#2](https://github.com/GCES-Kubernetes-2021-2/docs/issues/2)|Tradução da página do sistema de métricas|Thiago Guilherme|
+|[#2](https://github.com/GCES-Kubernetes-2021-2/docs/issues/2)|Tradução da página do sistema de métricas|Thiago Guilherme e Brenda Santos|
 |[#3](https://github.com/GCES-Kubernetes-2021-2/docs/issues/3)|Adição do linter Thelper|Matheus Afonso|
 |[#6](https://github.com/GCES-Kubernetes-2021-2/docs/issues/6)|Adição do linter Stylecheck|Mateus Gomes|
 |[#9](https://github.com/GCES-Kubernetes-2021-2/docs/issues/9)|Adição do linter Gocritic|Vinícius Saturnino|

@@ -32,4 +32,4 @@ Após a contribuição, foi aberto um Pull Request
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
-|24/02/22|0.1|Criação do documento acerca do PR aprovado|Thiago Mesquita e Vinícius Saturnino|
+|10/03/22|0.1|Criação do documento acerca do PR aprovado|Thiago Mesquita e Vinícius Saturnino|

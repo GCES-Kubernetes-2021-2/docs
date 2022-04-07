@@ -1,5 +1,5 @@
 site_name: Kubernetes
-pages:
+nav:
   - Home: index.md
   - Sprints: 
     - Sprint 1: 
@@ -18,8 +18,14 @@ pages:
       - Issue 13939: sprints/sprint_2/resultados/issue13939.md
     - Sprint 3:
       - Planejamento: sprints/sprint_3/planejamento.md
-      - Issue 13939 - Endpoint Slices Page: sprints/sprint_3/resultados/issue13939_endpoint_slices.md
+      - Issue 2030: sprints/sprint_3/resultados/issue2030.md
+      - Issue 13939: sprints/sprint_3/resultados/issue13939.md
       - Issue 2104: sprints/sprint_3/resultados/issue2104.md
+    - Sprint 4:
+      - Issue 13939 - Flow Control Page: sprints/sprint_4/resultados/issue13939_flow-control.md
+    - Sprint 5:
+      - Resultados:
+        - Vinicius: sprints/sprint_5/resultados/vinicius.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png
