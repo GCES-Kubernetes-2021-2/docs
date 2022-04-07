@@ -23,6 +23,9 @@ nav:
       - Issue 2104: sprints/sprint_3/resultados/issue2104.md
     - Sprint 4:
       - Issue 13939 - Flow Control Page: sprints/sprint_4/resultados/issue13939_flow-control.md
+    - Sprint 5:
+      - Resultados:
+        - Vinicius: sprints/sprint_5/resultados/vinicius.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png
