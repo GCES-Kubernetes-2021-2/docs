@@ -28,6 +28,7 @@ nav:
         - Vinicius: sprints/sprint_5/resultados/vinicius.md
         - Thiago: sprints/sprint_5/resultados/thiago.md
         - Mateus Gomes: sprints/sprint_5/resultados/mateus_gomes.md
+        - Matheus Afonso: sprints/sprint_5/resultados/matheus_afonso.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png
