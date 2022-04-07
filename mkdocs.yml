@@ -1,5 +1,5 @@
 site_name: Kubernetes
-pages:
+nav:
   - Home: index.md
   - Sprints: 
     - Sprint 1: 
