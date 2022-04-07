@@ -26,6 +26,7 @@ nav:
     - Sprint 5:
       - Resultados:
         - Vinicius: sprints/sprint_5/resultados/vinicius.md
+        - Thiago: sprints/sprint_5/resultados/thiago.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png

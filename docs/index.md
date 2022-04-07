@@ -16,7 +16,7 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 | ![Tamara][tamara-img] | 12/0022613 | Tâmara Barbosa | [@tamarabarbosa][tamara-github] | tamara-bt@hotmail.com.br |
 | ![Thiago][thiago1-img] | 18/0028308 | Thiago Guilherme | [@ThiagoGMF][thiago1-github] | thiago.guilherme20@hotmail.com.br |
 | ![Vinicius][vinicius-img] | 18/0132245 | Vinícius Saturnino | [@viniciussaturnino][vinicius-github] | viniciussaturnino78@gmail.com |
-| ![Thiago][thiago2-img] | 18/00xxxxx | Thiago Mesquita | [@thiagompc][thiago2-github] | xxxxx@hotmail.com.br |
+| ![Thiago][thiago2-img] | 18/0138545 | Thiago Mesquita | [@thiagompc][thiago2-github] | thiago099carvalho@gmail.com.br |
 
 [brenda-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
 [brenda-github]:https://github.com/brendavsantos
@@ -39,7 +39,7 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 [vinicius-img]:https://avatars.githubusercontent.com/u/49040839?v=4
 [vinicius-github]:https://github.com/viniciussaturnino
 
-[thiago2-img]:https://media.discordapp.net/attachments/750707734910992535/946933446159269968/WhatsApp_Image_2021-02-04_at_14.23.27.jpeg?width=343&height=458
+[thiago2-img]:https://github.com/thiagompc.png
 [thiago2-github]:https://github.com/thiagompc
 
 <!-- 
