@@ -23,12 +23,14 @@ nav:
       - Issue 2104: sprints/sprint_3/resultados/issue2104.md
     - Sprint 4:
       - Issue 13939 - Flow Control Page: sprints/sprint_4/resultados/issue13939_flow-control.md
+      - Issue 13939 - Kubernetes Object Management : sprints/sprint_4/resultados/issue13939_object-management.md
     - Sprint 5:
       - Resultados:
         - Vinicius: sprints/sprint_5/resultados/vinicius.md
         - Thiago: sprints/sprint_5/resultados/thiago.md
         - Mateus Gomes: sprints/sprint_5/resultados/mateus_gomes.md
         - Matheus Afonso: sprints/sprint_5/resultados/matheus_afonso.md
+        - Tâmara : sprints/sprint_5/resultados/tamara.md
 theme:
   name: material
   logo: assets/kubernetes-icon.png
