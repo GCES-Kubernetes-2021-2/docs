@@ -8,21 +8,21 @@ A issue escolhida para execução foi uma issue de um bug onde o azure managed m
 
 ## Discussão da Issue
 
-![Issue Opened](../../../assets/sprint1/issue2058/print1.png)
+![Issue Opened](../../../assets/sprint2/issue2058/print1.png)
 
-![Issue Conversation](../../../assets/sprint1/issue2058/print2.png)
+![Issue Conversation](../../../assets/sprint2/issue2058/print2.png)
 
-![Issue Conversation](../../../assets/sprint1/issue2058/print3.png)
+![Issue Conversation](../../../assets/sprint2/issue2058/print3.png)
 
-![Issue Conversation](../../../assets/sprint1/issue2058/print4.png)
+![Issue Conversation](../../../assets/sprint2/issue2058/print4.png)
 
 ### Pull Request aberto
 
 Após a contribuição, foi aberto um Pull Request
 
-![PR Opened](../../../assets/sprint1/issue2058/print5.png)
+![PR Opened](../../../assets/sprint2/issue2058/print5.png)
 
-![PR Opened](../../../assets/sprint1/issue2058/print6.png)
+![PR Opened](../../../assets/sprint2/issue2058/print6.png)
 
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
