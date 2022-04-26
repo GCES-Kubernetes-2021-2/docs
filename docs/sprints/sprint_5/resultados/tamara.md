@@ -11,7 +11,8 @@
 ![Refactoring Proposal](../../../assets/sprint5/tamara/print2.png)
 ![Refactoring Proposal](../../../assets/sprint5/tamara/print3.png)
 
-![Comparing](../../../assets/sprint5/thiago/print4.png)
+## Commit
+![Comparing](../../../assets/sprint5/tamara/print4.png)
 
 ## Histórico de Revisão
 |Data|Versão|Descrição|Autor|
