@@ -15,7 +15,7 @@ A issue 13939 é uma issue voltada para o rastreamento da tradução das página
 Durante a contribuição foi realizada a dicussão no Slack:
 
 ![Slack](../../../assets/sprint4/issue13939_object-managment/slack1.png)
-![Slack](../../../assets/sprint4/issue13939_object-managment/slack1.png)
+![Slack](../../../assets/sprint4/issue13939_object-managment/slack2.png)
 
 ### Pull Request aberto
 
