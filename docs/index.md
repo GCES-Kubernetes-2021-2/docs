@@ -10,9 +10,8 @@ Wiki destinada aos relatos de contribuições e organização de apresentações
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
 | ![Brenda][brenda-img] | 18/0041444 | Brenda Santos | [@brendavsantos][brenda-github] | brendasantosv.bs@gmail.com |
-| ![Lucas][lucas-img] | 18/00xxxxx | Lucas Boaventura | [@lboaventura25][lucas-github] | xxxxx@hotmail.com.br |
 | ![Mateus Gomes][mateus-img] | 18/0106821 | Mateus Gomes | [@matgomes21][mateus-github] | mateusgomes.nascimento21@gmail.com |
-| ![Matheus Afonso][matheus-img] | 18/00xxxxx | Matheus Afonso | [@Matheusafonsouza][matheus-github] | xxxxx@hotmail.com.br |
+| ![Matheus Afonso][matheus-img] | 18/0127641 | Matheus Afonso | [@Matheusafonsouza][matheus-github] | matheusafonsouza@gmail.com.br |
 | ![Tamara][tamara-img] | 12/0022613 | Tâmara Barbosa | [@tamarabarbosa][tamara-github] | tamara-bt@hotmail.com.br |
 | ![Thiago][thiago1-img] | 18/0028308 | Thiago Guilherme | [@ThiagoGMF][thiago1-github] | thiago.guilherme20@hotmail.com.br |
 | ![Vinicius][vinicius-img] | 18/0132245 | Vinícius Saturnino | [@viniciussaturnino][vinicius-github] | viniciussaturnino78@gmail.com |
